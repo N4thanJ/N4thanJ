@@ -1,6 +1,6 @@
-- 👋 Hi, I’m [Nathan Jordens](@N4thanJ)
+   - 👋 Hi, I’m [Nathan Jordens](@N4thanJ)
 - 👀 I’m interested in projects
-- 🌱 I’m currently learning `Python`
+- 🌱 I’m currently learning `Python and React Native`
 - 📫 Your can find me on [LinkedIn](https://www.linkedin.com/in/nathan-jordens-093b99275/)
 
 <!---
