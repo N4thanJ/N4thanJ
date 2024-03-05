@@ -1,4 +1,5 @@
 - 👋 Hi, I’m [Nathan Jordens](@N4thanJ)
 - 👀 I’m interested in projects
-- 🌱 I’m currently learning `Python`, `React Native` and `Tailwind`
+- 🌱 I’m currently learning `Python`, `Java`, [`React`](https://github.com/N4thanJ/portfolio) and `Tailwind`
+- Check out my [portfolio]((https://portfolio-n4thanjs-projects.vercel.app))
 - 📫 Your can find me on [LinkedIn](https://www.linkedin.com/in/nathan-jordens-093b99275/)
