@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [Nathan Jordens](@N4thanJ)
 - 👀 I’m interested in projects
 - 🌱 I’m currently learning [`Java`](https://github.com/N4thanJ/Software-Craftmanship-Team10-Sweetcrust), [`React`](https://github.com/N4thanJ/kotfood)
-- Check out my [portfolio](https://n4jthanj.vercel.app/)
-- Check out [kotfood](https://n4jthanj.vercel.app/), a recipe app for students
+- Check out my [portfolio](https://n4thanj.vercel.app/)
+- Check out [kotfood](https://kotfood.vercel.app/), a recipe app for students
 - 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/nathan-jordens-093b99275/)
